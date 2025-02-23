@@ -1,0 +1,4 @@
+spotipy
+speechrecognition
+pyttsx3
+pyfiglet
